@@ -1,5 +1,10 @@
 /*
  * Project: Snoopy
+ Christian Sanchez and Wesley Harden
+ Fall 2014
+ This is the code for an Autonomous Robot using the Arduino UNO platform. We also used a 4 pin ultra sonic sensor. Attached to bot
+ was Hak5's wifi pineapple. We are still working on using a GSM dongle to see if we can modify the code to the UNO over the internet.
+ This will also be useful to transfer captures over the net.
  */
  
 const int speed = 80; // percent of maximum speed
